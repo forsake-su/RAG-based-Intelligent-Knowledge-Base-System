@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiofiles" />
+          <option value="dashscope" />
+          <option value="deepagents" />
+          <option value="fastapi" />
+          <option value="ipykernel" />
+          <option value="langchain" />
+          <option value="langchain-community" />
+          <option value="langchain-core" />
+          <option value="langchain-openai" />
+          <option value="langgraph" />
+          <option value="loguru" />
+          <option value="markdown" />
+          <option value="mysql-connector-python" />
+          <option value="openai" />
+          <option value="openpyxl" />
+          <option value="pandas" />
+          <option value="pathlib" />
+          <option value="pydantic" />
+          <option value="pypdf" />
+          <option value="python-docx" />
+          <option value="python-dotenv" />
+          <option value="python-multipart" />
+          <option value="pyyaml" />
+          <option value="ragflow-sdk" />
+          <option value="reportlab" />
+          <option value="requests" />
+          <option value="tavily-python" />
+          <option value="typing-extensions" />
+          <option value="uvicorn" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
